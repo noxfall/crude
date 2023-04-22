@@ -1,0 +1,33 @@
+{
+  "name": "crude",
+  "version": "1.0.0",
+  "description": "REST API With NodeJS and Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noxfall/crude.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "crud",
+    "node",
+    "js"
+  ],
+  "author": "Milos Georgiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noxfall/crude/issues"
+  },
+  "homepage": "https://github.com/noxfall/crude#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
